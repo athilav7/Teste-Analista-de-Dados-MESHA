@@ -76,6 +76,7 @@ print(result)
 
 ```python
 #Questão 3 - Qual a média geral?
+#Diferente do POWER BI, Calculei a média geral de acordo com alunos que foram apenas nos dois dias de prova.
 
 result = engine.execute("""SELECT 
     AVG(
