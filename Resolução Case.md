@@ -1,6 +1,6 @@
 # Case Mesha - Áthila Vinicius
 
-###Resumo do que foi realizado:
+### Resumo do que foi realizado:
 - Importação do Arquivo de dados CSV para o SQL SERVER
 - Extract, Transform, Load
 - Resolução das Questões Usando a Linguagem SQL
@@ -11,6 +11,7 @@
 - Pelo arquivo "Documentação das Medidas" é possível acompanhar as principais fórmulas dax utilizadas
 - No .md "Questões - Case Mesha" é aonde está o script feito no jupyter para obter as respotas via SQL
 - Também segue o arquivo "questoes.ipynb" para abrir no jupyter ou editor de preferência.
+- No arquivo Questões Power BI, segue a resolução das questões do case através das visualizações do dashboard
 
 
 ### Prévia Dashboard - Clique no link abaixo para acessar:
